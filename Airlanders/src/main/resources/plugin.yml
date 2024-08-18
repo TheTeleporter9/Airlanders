@@ -1,0 +1,13 @@
+name: Airlanders
+version: '${project.version}'
+main: org.theteleporter9.airlanders.Main
+api-version: '1.21'
+load: STARTUP
+
+commands:
+  menu:
+    description: "This is a test"
+    usage: /menu
+  testUtil:
+    description: "This command is used to test current Features"
+    usage: /testUtil
