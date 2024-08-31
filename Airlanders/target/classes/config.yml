@@ -1,0 +1,11 @@
+menu:
+  title: "Example Menu"
+  items:
+    sword_of_power:
+      slot: 11
+      material: DIAMOND_SWORD
+      name: "Sword of Power"
+    golden_apple:
+      slot: 15
+      material: GOLDEN_APPLE
+      name: "Golden Apple"

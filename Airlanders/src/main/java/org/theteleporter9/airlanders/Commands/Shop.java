@@ -74,13 +74,4 @@ public class Shop implements Listener, CommandExecutor {
         return item;
     }
 
-    private void generateUIItems(){
-
-    }
-
-    public void upgradeItem(Item item){
-
-
-
-    }
 }

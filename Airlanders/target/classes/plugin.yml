@@ -11,3 +11,6 @@ commands:
   testUtil:
     description: "This command is used to test current Features"
     usage: /testUtil
+  summonTrader:
+    description: "This commans is used to summon a trader"
+    usage: /summonTrader
