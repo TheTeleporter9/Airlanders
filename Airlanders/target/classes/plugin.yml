@@ -13,4 +13,4 @@ commands:
     usage: /testUtil
   summonTrader:
     description: "This commans is used to summon a trader"
-    usage: /summonTrader
+    usage: /summonTrader <name>

@@ -38,18 +38,8 @@ public class testCommand implements Listener, CommandExecutor {
         Player player = (Player) commandSender;
 
         // Create the menus
-        mc.createMenu("Test Menu", 27); // Valid size
 
-        mc.setItem("Test Menu", 11, Material.DIAMOND_SWORD, "Sword of Power");
-        mc.setItem("Test Menu", 15, Material.GOLDEN_APPLE, "Golden Apple");
 
-        // Register item actions
-        mc.registerItemAction("Sword of Power", p -> p.sendMessage("You clicked the Sword of Power!"));
-        mc.registerItemAction("Golden Apple", p -> p.sendMessage("You clicked the Golden Apple!"));
-
-        // Open the menu for the player
-        mc.openMenu(player, "Test Menu");
-        
 
         return true;
     }

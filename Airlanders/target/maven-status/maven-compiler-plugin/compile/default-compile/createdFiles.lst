@@ -6,12 +6,10 @@ org\theteleporter9\airlanders\Main.class
 org\theteleporter9\airlanders\Handelers\onBlockBreakeEvent.class
 org\theteleporter9\airlanders\Storage\Storagge_before_SQL.class
 org\theteleporter9\airlanders\Commands\summonTrader.class
-org\theteleporter9\airlanders\Util\MenueCreator$MenuListener.class
 org\theteleporter9\airlanders\Util\MenueCreator$Menu.class
-org\theteleporter9\airlanders\Util\MenueCreator$1.class
+org\theteleporter9\airlanders\Handelers\onVillagerInteract.class
 org\theteleporter9\airlanders\Handelers\onJoinEvent.class
 org\theteleporter9\airlanders\Util\uiGenerator.class
-org\theteleporter9\airlanders\Handelers\onVillagerIneract.class
 org\theteleporter9\airlanders\Commands\testCommand.class
 org\theteleporter9\airlanders\NPC\Shop\Shop.class
 org\theteleporter9\airlanders\Mine\MineLogic.class
