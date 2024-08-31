@@ -49,6 +49,7 @@ public class testCommand implements Listener, CommandExecutor {
 
         // Open the menu for the player
         mc.openMenu(player, "Test Menu");
+        
 
         return true;
     }
